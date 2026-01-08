@@ -130,8 +130,8 @@ These files are loaded directly by the web application.
 ---
 
 ## Demo Video 
-Duration: 2 minutes 13 seconds
-Demo Video Link: https://drive.google.com/file/d/1QcawggzZ8T2SFvwJh3ZwtLzLwaTMplqJ/view?usp=share_link
+**Duration:** 2 minutes 13 seconds  
+**Demo Video Link:** https://drive.google.com/file/d/1QcawggzZ8T2SFvwJh3ZwtLzLwaTMplqJ/view?usp=share_link
 
 The demo video shows:
 - Brief explanation of the project
@@ -140,12 +140,13 @@ The demo video shows:
 
 ---
 
-## Author
-Name: Eshika Suresh Katekhaye
-Enrollment no.: 24114036
-Branch: Computer Science and Engeneering (2nd year)
-Institution : Indian Institute of Technology Roorkee
-Contact: eshikakatekhaye@gmail.com
+##  Author
+
+**Name:** Eshika Suresh Katekhaye  
+**Enrollment No.:** 24114036  
+**Branch:** Computer Science and Engineering (2nd Year)  
+**Institution:** Indian Institute of Technology Roorkee  
+**Contact:** eshikakatekhaye@gmail.com
 
 ---
 
